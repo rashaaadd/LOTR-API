@@ -1,0 +1,30 @@
+.Home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 925px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(95, 95, 95, 0.75)), url(https://occ-0-114-2568.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABWpSlPf9U-J-geBhnAULRiC8k_OEaa36rn9FYGRbVxunqkpgnQw53Mp7_FK0aH92g1Byq5XFRELg0Fgre5cnEypJ961k2IpcXp7d.jpg?r=df6);
+    background-repeat: repeat-y;
+    background-size: cover;
+    color: white;
+}
+
+.Heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.playIcon{
+    margin-left: 50px;
+    cursor: pointer;
+}
+
+.content{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

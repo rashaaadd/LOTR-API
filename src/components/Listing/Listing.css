@@ -1,0 +1,14 @@
+.Listing{
+    width: 80%;
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    overflow: auto;
+    transition: ease all .5s;
+}
+
